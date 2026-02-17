@@ -9,7 +9,7 @@ TILE_DATA = {
     "C_BL":  {"sym": "╚", "sockets": [1, 1, 0, 0]},
     "C_BR":  {"sym": "╝", "sockets": [1, 0, 0, 1]},
     "T_DN":  {"sym": "╦", "sockets": [0, 1, 1, 1]},
-    "EMPTY": {"sym": "#", "sockets": [0, 0, 0, 0]}
+    "EMPTY": {"sym": " ", "sockets": [0, 0, 0, 0]}
 }
 
 
